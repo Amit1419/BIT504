@@ -1,3 +1,8 @@
+
+# Hello World 
+
+This is simple project that will outpout " Hello World " to tghe screem 
+
 # BIT504
 
-This is a simple project that will output "Hello World" to the screen.
+Expanded the definition of project to b emore descriptive
