@@ -1,7 +1,7 @@
 
 # Hello World 
 
-This is simple project that will outpout " Hello World " to the screem 
+This is simple project that will outpout " Hello World " to the screen
 
 # BIT504
 
